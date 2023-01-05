@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "category": "UI Design",
+    "date": "April 20, 2021",
+    "title": "Understanding color theory: the color wheel and finding complementary colors",
+    "description": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum",
+    "authorName": "John Doe",
+    "authorImage": "/author-2.png",
+    "authorJob": "Web Developer",
+    "thumbnail": "/thumbnail-2.png"
+  },
+  {
+    "id": 2,
+    "category": "UI Design",
+    "date": "April 20, 2021",
+    "title": "Understanding color theory: the color wheel and finding complementary colors",
+    "description": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum",
+    "authorName": "John Doe",
+    "authorImage": "/author-2.png",
+    "authorJob": "Web Developer",
+    "thumbnail": "/thumbnail-3.png"
+  },
+  {
+    "id": 3,
+    "category": "UI Design",
+    "date": "April 20, 2021",
+    "title": "Understanding color theory: the color wheel and finding complementary colors",
+    "description": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum",
+    "authorName": "John Doe",
+    "authorImage": "/author-2.png",
+    "authorJob": "Web Developer",
+    "thumbnail": "/thumbnail-4.png"
+  },
+  {
+    "id": 4,
+    "category": "UI Design",
+    "date": "April 20, 2021",
+    "title": "Understanding color theory: the color wheel and finding complementary colors",
+    "description": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum",
+    "authorName": "John Doe",
+    "authorImage": "/author-2.png",
+    "authorJob": "Web Developer",
+    "thumbnail": "/thumbnail-2.png"
+  },
+  {
+    "id": 5,
+    "category": "UI Design",
+    "date": "April 20, 2021",
+    "title": "Understanding color theory: the color wheel and finding complementary colors",
+    "description": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum",
+    "authorName": "John Doe",
+    "authorImage": "/author-2.png",
+    "authorJob": "Web Developer",
+    "thumbnail": "/thumbnail-3.png"
+  },
+  {
+    "id": 6,
+    "category": "UI Design",
+    "date": "April 20, 2021",
+    "title": "Understanding color theory: the color wheel and finding complementary colors",
+    "description": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum",
+    "authorName": "John Doe",
+    "authorImage": "/author-2.png",
+    "authorJob": "Web Developer",
+    "thumbnail": "/thumbnail-4.png"
+  }
+]
