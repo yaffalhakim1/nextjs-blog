@@ -8,7 +8,7 @@ export default function DetailPost() {
   return (
     <Layout>
       <Head>
-        <title>Detail &mdash; Yafi</title>
+        <title>Detail - Yafi</title>
       </Head>
       <Container>
         <div className="md:w-6/12 w-full mx-auto flex items-center flex-col">
